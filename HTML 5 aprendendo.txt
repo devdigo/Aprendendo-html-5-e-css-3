@@ -1,0 +1,24 @@
+NO DIA 16/06 COMPLETO O MEU CURSO BASICO DE HTML 5 E CSS3
+
+Neste momento ainda não sei fazer codigos mas estou praticando em editores online,
+algumas informações referente ao html que adquiri foi a estrutura básica composta da forma a seguir:
+
+<!DOCTYPE html>
+  <html>
+    <head>
+       <meta>
+         <title> APRENDENDO </title>
+    </head>
+    <body>
+            APRENDENDO CADA VEZ MAIS COM A DIO 
+    </body>
+  <html>
+
+Este é o basico que me encantou para aprender mais e mais.
+
+Aprendi tambem sobre semantica, textos e links utilizando <p> , <a> href ou target...
+
+irei atulizar com frequencia para continuar aprendendo a utilizar o git e github e assim aperfeiçoar
+cada vez mais meus conhecimentos.
+
+em breve com mais postagens e crecimento.
